@@ -1,0 +1,15 @@
+//
+//  ViewController.h
+//  ScrollViewAndPage
+//
+//  Created by ZMY on 16/3/30.
+//  Copyright © 2016年 Mac. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface ViewController : UIViewController<UIScrollViewDelegate>
+
+
+@end
+
